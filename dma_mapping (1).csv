@@ -1,0 +1,211 @@
+,dma_name,group,app_segments,youtube_segments
+0,Abilene-Sweetwater,5,Control,Treatment 1
+1,"Albany, GA",3,Treatment 1,Control
+2,Albany-Schenectady-Troy,3,Treatment 1,Control
+3,Albuquerque-Santa Fe,5,Control,Treatment 1
+4,"Alexandria, LA",1,Treatment 1,Treatment 2
+5,Alpena,4,Control,Treatment 2
+6,Amarillo,6,Control,Control
+7,Anchorage,1,Treatment 1,Treatment 2
+8,Atlanta,6,Control,Control
+9,Augusta-Aiken,2,Treatment 1,Treatment 1
+10,Austin,3,Treatment 1,Control
+11,Bakersfield,1,Treatment 1,Treatment 2
+12,Baltimore,5,Control,Treatment 1
+13,Bangor,4,Control,Treatment 2
+14,Baton Rouge,5,Control,Treatment 1
+15,Beaumont-Port Arthur,1,Treatment 1,Treatment 2
+16,"Bend, OR",2,Treatment 1,Treatment 1
+17,Billings,3,Treatment 1,Control
+18,Biloxi-Gulfport,3,Treatment 1,Control
+19,Binghamton,5,Control,Treatment 1
+20,Birmingham (Ann and Tusc),4,Control,Treatment 2
+21,Bluefield-Beckley-Oak Hill,3,Treatment 1,Control
+22,Boise,6,Control,Control
+23,Boston (Manchester),5,Control,Treatment 1
+24,Bowling Green,6,Control,Control
+25,Buffalo,3,Treatment 1,Control
+26,Burlington-Plattsburgh,3,Treatment 1,Control
+27,Butte-Bozeman,1,Treatment 1,Treatment 2
+28,Casper-Riverton,6,Control,Control
+29,Cedar Rapids-Wtrlo-IWC&Dub,3,Treatment 1,Control
+30,Champaign&Sprngfld-Decatur,5,Control,Treatment 1
+31,"Charleston, SC",6,Control,Control
+32,Charleston-Huntington,1,Treatment 1,Treatment 2
+33,Charlotte,2,Treatment 1,Treatment 1
+34,Charlottesville,5,Control,Treatment 1
+35,Chattanooga,3,Treatment 1,Control
+36,Cheyenne-Scottsbluff,3,Treatment 1,Control
+37,Chicago,4,Control,Treatment 2
+38,Chico-Redding,3,Treatment 1,Control
+39,Cincinnati,2,Treatment 1,Treatment 1
+40,Clarksburg-Weston,6,Control,Control
+41,Cleveland-Akron (Canton),6,Control,Control
+42,Colorado Springs-Pueblo,2,Treatment 1,Treatment 1
+43,"Columbia, SC",4,Control,Treatment 2
+44,Columbia-Jefferson City,6,Control,Control
+45,"Columbus, GA (Opelika, AL)",5,Control,Treatment 1
+46,"Columbus, OH",6,Control,Control
+47,Columbus-Tupelo-W Pnt-Hstn,3,Treatment 1,Control
+48,Corpus Christi,1,Treatment 1,Treatment 2
+49,Dallas-Ft. Worth,1,Treatment 1,Treatment 2
+50,Davenport-R.Island-Moline,4,Control,Treatment 2
+51,Dayton,4,Control,Treatment 2
+52,Denver,3,Treatment 1,Control
+53,Des Moines-Ames,1,Treatment 1,Treatment 2
+54,Detroit,1,Treatment 1,Treatment 2
+55,Dothan,4,Control,Treatment 2
+56,Duluth-Superior,4,Control,Treatment 2
+57,El Paso (Las Cruces),6,Control,Control
+58,Elmira (Corning),3,Treatment 1,Control
+59,Erie,6,Control,Control
+60,Eugene,5,Control,Treatment 1
+61,Eureka,3,Treatment 1,Control
+62,Evansville,1,Treatment 1,Treatment 2
+63,Fairbanks,5,Control,Treatment 1
+64,Fargo-Valley City,4,Control,Treatment 2
+65,Flint-Saginaw-Bay City,1,Treatment 1,Treatment 2
+66,Fresno-Visalia,6,Control,Control
+67,Ft. Myers-Naples,2,Treatment 1,Treatment 1
+68,Ft. Smith-Fay-Sprngdl-Rgrs,4,Control,Treatment 2
+69,Ft. Wayne,2,Treatment 1,Treatment 1
+70,Gainesville,4,Control,Treatment 2
+71,Glendive,6,Control,Control
+72,Grand Junction-Montrose,4,Control,Treatment 2
+73,Grand Rapids-Kalmzoo-B.Crk,5,Control,Treatment 1
+74,Great Falls,3,Treatment 1,Control
+75,Green Bay-Appleton,1,Treatment 1,Treatment 2
+76,Greensboro-H.Point-W.Salem,6,Control,Control
+77,Greenville-N.Bern-Washngtn,1,Treatment 1,Treatment 2
+78,Greenvll-Spart-Ashevll-And,3,Treatment 1,Control
+79,Greenwood-Greenville,6,Control,Control
+80,Harlingen-Wslco-Brnsvl-McA,1,Treatment 1,Treatment 2
+81,Harrisburg-Lncstr-Leb-York,1,Treatment 1,Treatment 2
+82,Harrisonburg,6,Control,Control
+83,Hartford & New Haven,2,Treatment 1,Treatment 1
+84,Hattiesburg-Laurel,3,Treatment 1,Control
+85,Helena,1,Treatment 1,Treatment 2
+86,Honolulu,1,Treatment 1,Treatment 2
+87,Houston,1,Treatment 1,Treatment 2
+88,Huntsville-Decatur (Flor),4,Control,Treatment 2
+89,Idaho Fals-Pocatllo(Jcksn),5,Control,Treatment 1
+90,Indianapolis,5,Control,Treatment 1
+91,"Jackson, MS",5,Control,Treatment 1
+92,"Jackson, TN",5,Control,Treatment 1
+93,Jacksonville,3,Treatment 1,Control
+94,Johnstown-Altoona-St Colge,5,Control,Treatment 1
+95,Jonesboro,2,Treatment 1,Treatment 1
+96,Joplin-Pittsburg,4,Control,Treatment 2
+97,Juneau,5,Control,Treatment 1
+98,Kansas City,1,Treatment 1,Treatment 2
+99,Knoxville,2,Treatment 1,Treatment 1
+100,La Crosse-Eau Claire,1,Treatment 1,Treatment 2
+101,"Lafayette, IN",5,Control,Treatment 1
+102,"Lafayette, LA",2,Treatment 1,Treatment 1
+103,Lake Charles,5,Control,Treatment 1
+104,Lansing,2,Treatment 1,Treatment 1
+105,Laredo,1,Treatment 1,Treatment 2
+106,Las Vegas,3,Treatment 1,Control
+107,Lexington,6,Control,Control
+108,Lima,6,Control,Control
+109,Lincoln & Hastings-Krny,2,Treatment 1,Treatment 1
+110,Little Rock-Pine Bluff,1,Treatment 1,Treatment 2
+111,Los Angeles,5,Control,Treatment 1
+112,Louisville,6,Control,Control
+113,Lubbock,2,Treatment 1,Treatment 1
+114,Macon,2,Treatment 1,Treatment 1
+115,Madison,5,Control,Treatment 1
+116,Mankato,2,Treatment 1,Treatment 1
+117,Marquette,2,Treatment 1,Treatment 1
+118,Medford-Klamath Falls,6,Control,Control
+119,Memphis,2,Treatment 1,Treatment 1
+120,Meridian,5,Control,Treatment 1
+121,Miami-Ft. Lauderdale,4,Control,Treatment 2
+122,Milwaukee,2,Treatment 1,Treatment 1
+123,Minneapolis-St. Paul,2,Treatment 1,Treatment 1
+124,Minot-Bsmrck-Dcknsn(Wlstn),2,Treatment 1,Treatment 1
+125,Missoula,2,Treatment 1,Treatment 1
+126,Mobile-Pensacola (Ft Walt),6,Control,Control
+127,Monroe-El Dorado,5,Control,Treatment 1
+128,Monterey-Salinas,1,Treatment 1,Treatment 2
+129,Montgomery-Selma,3,Treatment 1,Control
+130,Myrtle Beach-Florence,1,Treatment 1,Treatment 2
+131,Nashville,2,Treatment 1,Treatment 1
+132,New Orleans,3,Treatment 1,Control
+133,New York,5,Control,Treatment 1
+134,Norfolk-Portsmth-Newpt Nws,4,Control,Treatment 2
+135,North Platte,2,Treatment 1,Treatment 1
+136,Odessa-Midland,1,Treatment 1,Treatment 2
+137,Oklahoma City,4,Control,Treatment 2
+138,Omaha,1,Treatment 1,Treatment 2
+139,Orlando-Daytona Bch-Melbrn,5,Control,Treatment 1
+140,Ottumwa-Kirksville,2,Treatment 1,Treatment 1
+141,Paducah-Cape Girard-Harsbg,2,Treatment 1,Treatment 1
+142,Palm Springs,5,Control,Treatment 1
+143,Panama City,4,Control,Treatment 2
+144,Parkersburg,4,Control,Treatment 2
+145,Peoria-Bloomington,4,Control,Treatment 2
+146,Philadelphia,4,Control,Treatment 2
+147,Phoenix (Prescott),1,Treatment 1,Treatment 2
+148,Pittsburgh,5,Control,Treatment 1
+149,"Portland, OR",4,Control,Treatment 2
+150,Portland-Auburn,4,Control,Treatment 2
+151,Presque Isle,3,Treatment 1,Control
+152,Providence-New Bedford,3,Treatment 1,Control
+153,Quincy-Hannibal-Keokuk,6,Control,Control
+154,Raleigh-Durham (Fayetvlle),6,Control,Control
+155,Rapid City,6,Control,Control
+156,Reno,5,Control,Treatment 1
+157,Richmond-Petersburg,5,Control,Treatment 1
+158,Roanoke-Lynchburg,6,Control,Control
+159,"Rochester, NY",6,Control,Control
+160,Rochestr-Mason City-Austin,2,Treatment 1,Treatment 1
+161,Rockford,1,Treatment 1,Treatment 2
+162,Sacramnto-Stkton-Modesto,5,Control,Treatment 1
+163,Salisbury,4,Control,Treatment 2
+164,Salt Lake City,4,Control,Treatment 2
+165,San Angelo,5,Control,Treatment 1
+166,San Antonio,6,Control,Control
+167,San Diego,6,Control,Control
+168,San Francisco-Oak-San Jose,6,Control,Control
+169,SantaBarbra-SanMar-SanLuOb,6,Control,Control
+170,Savannah,1,Treatment 1,Treatment 2
+171,Seattle-Tacoma,1,Treatment 1,Treatment 2
+172,Sherman-Ada,4,Control,Treatment 2
+173,Shreveport,2,Treatment 1,Treatment 1
+174,Sioux City,3,Treatment 1,Control
+175,Sioux Falls(Mitchell),6,Control,Control
+176,South Bend-Elkhart,3,Treatment 1,Control
+177,Spokane,3,Treatment 1,Control
+178,"Springfield, MO",1,Treatment 1,Treatment 2
+179,Springfield-Holyoke,1,Treatment 1,Treatment 2
+180,St. Joseph,6,Control,Control
+181,St. Louis,3,Treatment 1,Control
+182,Syracuse,2,Treatment 1,Treatment 1
+183,Tallahassee-Thomasville,5,Control,Treatment 1
+184,Tampa-St. Pete (Sarasota),3,Treatment 1,Control
+185,Terre Haute,2,Treatment 1,Treatment 1
+186,Toledo,4,Control,Treatment 2
+187,Topeka,3,Treatment 1,Control
+188,Traverse City-Cadillac,3,Treatment 1,Control
+189,"Tri-Cities, TN-VA",5,Control,Treatment 1
+190,Tucson (Sierra Vista),4,Control,Treatment 2
+191,Tulsa,2,Treatment 1,Treatment 1
+192,Twin Falls,4,Control,Treatment 2
+193,Tyler-Longview(Lfkn&Ncgd),2,Treatment 1,Treatment 1
+194,Utica,2,Treatment 1,Treatment 1
+195,Victoria,4,Control,Treatment 2
+196,Waco-Temple-Bryan,4,Control,Treatment 2
+197,"Washington, DC (Hagrstwn)",3,Treatment 1,Control
+198,Watertown,4,Control,Treatment 2
+199,Wausau-Rhinelander,2,Treatment 1,Treatment 1
+200,West Palm Beach-Ft. Pierce,6,Control,Control
+201,Wheeling-Steubenville,3,Treatment 1,Control
+202,Wichita Falls & Lawton,1,Treatment 1,Treatment 2
+203,Wichita-Hutchinson Plus,6,Control,Control
+204,Wilkes Barre-Scranton-Hztn,5,Control,Treatment 1
+205,Wilmington,3,Treatment 1,Control
+206,Yakima-Pasco-Rchlnd-Knnwck,4,Control,Treatment 2
+207,Youngstown,2,Treatment 1,Treatment 1
+208,Yuma-El Centro,4,Control,Treatment 2
+209,Zanesville,1,Treatment 1,Treatment 2
